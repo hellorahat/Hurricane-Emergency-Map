@@ -1,0 +1,78 @@
+ID,State,Code,Hurricane Name,Saffir-Simpson Category,Year
+1,North Carolina,NC,Isabel,2,2003
+2,Alabama,AL,Ivan,3,2004
+3,Florida,FL,Charley,4,2004
+4,Florida,FL,Frances,2,2004
+5,Florida,FL,Ivan,3,2004
+6,Florida,FL,Jeanne,3,2004
+7,Alabama,AL,Katrina,3,2005
+8,Florida,FL,Dennis,3,2005
+9,Florida,FL,Katrina,3,2005
+10,Florida,FL,Wilma,3,2005
+11,Louisiana,LA,Katrina,3,2005
+12,Louisiana,LA,Rita,5,2005
+13,Mississippi,MS,Katrina,3,2005
+14,Texas,TX,Rita,2,2005
+15,Louisiana,LA,Gustav,2,2008
+16,Texas,TX,Ike,2,2008
+17,Connecticut,CT,Hurricane Irene,3,2011
+18,North Carolina,NC,Arthur,2,2014
+19,Florida,FL,Matthew,2,2016
+20,Texas,TX,Harvey,4,2017
+21,Alabama,AL,Dennis,1,2005
+22,Alabama,AL,Katrina,1,2005
+23,Alabama,AL,Michael,1,2018
+24,Alabama,AL,Sally,2,2020
+25,Alabama,AL,Zeta,1,2020
+26,Florida,FL,Rita,1,2005
+27,Florida,FL,Irma,4,2017
+28,Florida,FL,Michael,5,2018
+29,Florida,FL,Sally,2,2020
+30,Georgia,GA,Matthew,1,2016
+31,Georgia,GA,Michael,2,2018
+32,Louisiana,LA,Isaac,1,2012
+33,Louisiana,LA,Nate,1,2017
+34,Louisiana,LA,Barry,1,2019
+35,Louisiana,LA,Laura,4,2020
+36,Louisiana,LA,Delta,2,2020
+37,Louisiana,LA,Zeta,3,2020
+38,Louisiana,LA,Ida,4,2021
+39,Mississippi,MS,Nate,1,2017
+40,MIssissippi,MS,Zeta,2,2020
+41,New York,NY,Sandy,1,2012
+42,New York,NY,Ida,4,2021
+43,North Carolina,NC,Alex,1,2004
+44,North Carolina,NC,Charley,1,2004
+45,North Carolina,NC,Ophelia,1,2005
+46,North Carolina,NC,Irene,1,2011
+47,North Carolina,NC,Matthew,1,2016
+48,North Carolina,NC,Florence,1,2018
+49,North Carolina,NC,Dorian,2,2019
+50,North Carolina,NC,Isaias,1,2020
+51,South Carolina,SC,Charley,1,2004
+52,South Carolina,SC,Gaston,1,2004
+53,South Carolina,SC,Matthew,1,2016
+54,South Carolina,SC,Isaias,1,2020
+55,Texas,TX,Humberto,1,2007
+56,Texas,TX,Dolly,1,2008
+57,Texas,TX,Hanna,1,2020
+58,Texas,TX,Laura,1,2020
+59,Virginia,VA,Isabel,1,2003
+60,American Samoa,AS,Heta,1,2004
+61,American Samoa,AS,Olaf,3,2005
+62,American Samoa,AS,Rene,1,2010
+63,Guam,GU,Chataan,1,2002
+64,Guam,GU,Pongsona,4,2015
+65,Guam,GU,Dolphin,1,2002
+66,Northern Mariana Islands,MP,Pongsona,1,2002
+67,Northern Mariana Islands,MP,Chaba,3,2004
+68,Northern Mariana Islands,MP,Vongfong,2,2014
+69,Northern Mariana Islands,MP,Dolphin,1,2015
+70,Northern Mariana Islands,MP,Soudelor,4,2015
+71,Northern Mariana Islands,MP,Mangkhut,2,2018
+72,Northern Mariana Islands,MP,Yutu,5,2018
+73,Puerto Rico,PR,Maria,4,2017
+74,United States Virgin Islands,VI,Omar,1,2008
+75,United States Virgin Islands,VI,Irma,3,2017
+76,United States Virgin Islands,VI,Maria,3,2017
+77,United States Virgin Islands,VI,Dorian,1,2019
