@@ -21,7 +21,7 @@ Using the data obtained, the average Saffir-Simpson Category was calculated for 
 
 ![image](https://user-images.githubusercontent.com/75760920/161058216-214a78a0-eb08-49c4-8a39-2690ee858353.png)
 
-By hovering over a state, the user can find the average Saffir-Simpson category, state, and occurrence respectively.
+By hovering over a state, the user can find the average Saffir-Simpson Category, State, and Occurrence respectively.
 
 ## Biography
 
