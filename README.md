@@ -2,17 +2,31 @@
 
 # Hurricane Emergency Map
 
-## Add a gif or a couple of images of the visualization
+![image](https://user-images.githubusercontent.com/75760920/161057051-7e53135a-e18b-44ef-a83a-475047a55053.png)
 
-## Introduction -- Write a summary that answers the questions: what is this tool, how does it work,  
 
-## Data Gathering -- write a paragraph on the data sources
+## Introduction
 
-Data was obtained from the Atlantic Oceanographic and Meteorological Laboratories.
+This tool uses plotly to create choropleth maps displaying the average hurricane Saffir-Simpson Category and amount of deaths through the years 2000 - 2021 in the United States. By hovering over a specific state, the user can view the average Saffir-Simpson Category or amount of deaths as a number.
+
+## Data Gathering
+
+Data was obtained from the Atlantic Oceanographic and Meteorological Laboratories Hurricane Research Division. The division conducts scientific research into hurricanes and related tropical weather phenomena, using theoretical studies, computer models, and an annual field program employing NOAA hurricane research aircraft.
+
 https://www.aoml.noaa.gov/hrd/hurdat/All_U.S._Hurricanes.html
 
-## Data Visualization -- write a 2 paragraphs on the visualization, add images from the running visualization to show what the user can expect to find
+## Data Visualization
 
 Using the data obtained, the average Saffir-Simpson Category was calculated for each state and put into a Pandas dataframe. Plotly was then used in order to visualize the data by creating a choropleth map from it.
 
-## Add Your Bio, include your email, link to your linkedIn
+![image](https://user-images.githubusercontent.com/75760920/161058216-214a78a0-eb08-49c4-8a39-2690ee858353.png)
+
+By hovering over a state, the user can find the average Saffir-Simpson category, state, and occurrence respectively.
+
+## Biography
+
+Rohan Sazad is a student at CUNY Queens College majoring in Computer Science. He has knowledge in C++ and Python.
+
+Email: rsazad813@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/rohan-sazad-635293217/
